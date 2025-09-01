@@ -1,12 +1,27 @@
-# Tiny:bit
+# Tiny:bit 日本語版
 
-Extension for Yahboom Tiny:bit V2.0.3
+Yahboom Tiny:bit V2.0.3 用の拡張機能（日本語対応版）
 
-## License
+この拡張機能を使うことで、Tiny:bit ロボットカーを簡単に制御できます。
+
+## 主な機能
+
+- ロボットカーの移動制御（前進、後退、左右回転、旋回、停止）
+- RGB LEDライトの制御
+- 超音波センサーによる距離測定
+- ライントレースセンサーによる線検出
+- 音声センサーでの音量測定
+- 音楽再生機能
+
+## ライセンス
 
 MIT
 
-## Supported targets
+## 対応プラットフォーム
 
-* for PXT/microbit
-(The metadata above is needed for package search.)
+* PXT/micro:bit 対応
+(上記のメタデータはパッケージ検索に必要です。)
+
+## 使い方
+
+この拡張機能をmicro:bit エディターで使用することで、ブロック形式でTiny:bitロボットカーをプログラミングできます。すべてのブロックとパラメーターが日本語で表示されます。

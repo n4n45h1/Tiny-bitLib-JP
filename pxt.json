@@ -1,7 +1,7 @@
 {
-    "name": "Tinybit",
+    "name": "Tinybit 日本語版",
     "version": "2.0.3",
-    "description": "Extension for YahBoom Tiny:bit V2.0.3",
+    "description": "Yahboom Tiny:bit V2.0.3 用の拡張機能（日本語対応版）",
     "license": "MIT",
     "dependencies": {
         "core": "*",
@@ -13,7 +13,8 @@
         "main.ts",
         "_locales/zh-cn/Tinybit-strings.json",
         "_locales/zh-tw/Tinybit-strings.json",
-        "_locales/fr/Tinybit-strings.json"
+        "_locales/fr/Tinybit-strings.json",
+        "_locales/ja/Tinybit-strings.json"
     ],
     "testFiles": [
         "test.ts"
